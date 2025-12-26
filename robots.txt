@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://peaceful-pony-670645.netlify.app/sitemap.xml
